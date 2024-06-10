@@ -6,6 +6,7 @@
 <ol>
 <li> На компьютере должен быть установлен Docker
 <li> Выполнить команду: <code>git clone https://github.com/AlekseyGoldberg/WebSocketOnlineChat.git</code>
+<li> Выполнить команду: <code>cd WebSocketOnlineChat</code>
 <li> Выполнить команду: <code>docker-compose build</code>
 <li> Выполнить команду: <code>docker-compose up</code>
 <li> Перейти по ссылке: <code>http://localhost:8081</code> и ввести ник
